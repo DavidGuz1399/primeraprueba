@@ -5,6 +5,6 @@
 	<title>Inicio</title>
 </head>
 <body>
-	Hola 
+	Primera pagina
 </body>
 </html>
